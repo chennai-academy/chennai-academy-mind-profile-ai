@@ -2,8 +2,8 @@
 
 [![npm](https://img.shields.io/npm/v/@chennai-academy/mind-profile-ai)](https://npmjs.com/package/@chennai-academy/mind-profile-ai)
 [![PyPI](https://img.shields.io/pypi/v/chennai-academy-mind-profile-ai)](https://pypi.org/project/chennai-academy-mind-profile-ai)
-
 [![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21728116.svg)](https://doi.org/10.5281/zenodo.21728116)
+
 **AI Powered Student Intelligence & Career Guidance Platform**
 
 Chennai Academy Mind Profile AI is an AI-powered educational intelligence platform that helps students, parents, counsellors, and educational institutions understand a student's cognitive profile, learning behavior, personality, aptitude, interests, and career potential. Built by [Chennai.Academy](https://chennai.academy).
