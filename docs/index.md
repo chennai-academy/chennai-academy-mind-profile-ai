@@ -126,6 +126,10 @@ Chennai Academy is an AI-powered educational intelligence platform that transfor
 | NPM | https://npmjs.com/package/@chennai-academy/mind-profile-ai |
 | PyPI | https://pypi.org/project/chennai-academy-mind-profile-ai |
 | Hugging Face | https://huggingface.co/datasets/chennai-academy/mind-profile-benchmarks |
+| SlideShare | https://www.slideshare.net/slideshow/chennai-academy-personalized-student-intelligence-career-guidance-platform/288930342 |
+| Quora | https://www.quora.com/profile/Chennai-Academy-1 |
+| Medium | https://medium.com/@chennai_academy |
+| Pinterest | https://www.pinterest.com/chennai_academy/_profile/ |
 
 ---
 
