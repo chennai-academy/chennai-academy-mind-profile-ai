@@ -1,0 +1,21 @@
+id,student_name,grade_level,student_profile_score,career_readiness_score,learning_style_score,psychometric_score,multiple_intelligence_score,stream_readiness_score,overall_mind_profile_index,priority_action,engineering_score,medicine_score,business_score,arts_score,learning_type,recommended_stream,notes
+1,Arjun Sharma,Grade 12,88,85,84,80,92,86,86,Psychometric,97,85,95,87,Visual,Science,Strong STEM multiple intelligence
+2,Priya Nair,Grade 11,82,78,90,76,84,80,82,Psychometric,88,78,88,90,Auditory,Arts,Linguistic intelligence dominant
+3,Rahul Mehta,Grade 12,90,88,82,82,94,90,88,Learning Style,99,88,99,88,Reading,Science,Top logical-mathematical score
+4,Sneha Patel,Grade 10,78,74,86,72,82,78,78,Psychometric,86,74,86,86,Kinesthetic,Commerce,Bodily-kinesthetic strength
+5,Kiran Kumar,Grade 12,85,90,80,78,88,88,85,Psychometric,92,90,97,83,Visual,Science,Career ready medical profile
+6,Meena Iyer,Grade 11,80,76,88,74,82,78,80,Psychometric,86,76,86,88,Auditory,Arts,Musical intelligence high
+7,Vikram Singh,Grade 12,92,88,84,84,96,90,89,Learning Style,100,88,99,90,Reading,Science,Exceptional logical reasoning
+8,Deepa Rao,Grade 10,76,72,82,70,80,76,76,Psychometric,84,72,84,84,Visual,Commerce,Spatial-visual strength
+9,Aditya Joshi,Grade 12,88,86,86,82,90,88,87,Psychometric,95,86,97,85,Reading,Science,Engineering aptitude high
+10,Riya Desai,Grade 11,80,78,90,74,84,80,81,Psychometric,88,78,88,90,Kinesthetic,Arts,Interpersonal intelligence peak
+11,Suresh Pillai,Grade 12,86,84,82,80,90,86,85,Learning Style,95,84,95,85,Visual,Science,Strong STEM readiness
+12,Ananya Krishnan,Grade 10,78,74,88,72,82,76,78,Psychometric,86,74,84,88,Auditory,Arts,Creative intelligence profile
+13,Rohit Verma,Grade 12,90,88,84,84,94,90,88,Learning Style,99,88,99,88,Reading,Science,Top aptitude scores
+14,Kavya Menon,Grade 11,76,74,86,72,80,76,77,Psychometric,84,74,84,86,Kinesthetic,Commerce,Practical learning style
+15,Sanjay Nambiar,Grade 12,88,90,82,82,92,88,87,Psychometric,97,90,97,87,Visual,Science,Medicine career alignment
+16,Pooja Sharma,Grade 11,84,80,88,78,88,82,83,Psychometric,92,80,90,88,Auditory,Arts,Strong interpersonal skills
+17,Nikhil Raj,Grade 12,90,86,84,82,94,90,88,Learning Style,99,86,99,88,Reading,Science,JEE aptitude profile
+18,Swati Pillai,Grade 10,78,76,86,72,82,78,79,Psychometric,86,76,86,86,Visual,Commerce,Business aptitude strong
+19,Manoj Kumar,Grade 12,86,84,82,80,90,86,85,Psychometric,95,84,95,85,Reading,Science,NEET career alignment
+20,Divya Krishnan,Grade 11,82,78,90,76,86,80,82,Psychometric,90,78,88,90,Auditory,Arts,Linguistic and musical strength
