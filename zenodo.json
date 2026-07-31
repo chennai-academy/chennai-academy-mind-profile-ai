@@ -21,13 +21,38 @@
   "license": "MIT",
   "upload_type": "software",
   "access_right": "open",
-  "doi": "10.5281/zenodo.XXXXXXX",
+  "doi": "10.5281/zenodo.21728116",
   "related_identifiers": [
     {
       "identifier": "https://github.com/chennai-academy/chennai-academy-mind-profile-ai",
       "relation": "isSupplementTo",
       "scheme": "url"
     },
+    {
+  "identifier": "https://zenodo.org/records/21728116",
+  "relation": "isIdenticalTo",
+  "scheme": "url"
+},
+{
+  "identifier": "https://www.slideshare.net/slideshow/chennai-academy-personalized-student-intelligence-career-guidance-platform/288930342",
+  "relation": "isSupplementTo",
+  "scheme": "url"
+},
+{
+  "identifier": "https://www.quora.com/profile/Chennai-Academy-1",
+  "relation": "isSupplementTo",
+  "scheme": "url"
+},
+{
+  "identifier": "https://medium.com/@chennai_academy",
+  "relation": "isSupplementTo",
+  "scheme": "url"
+},
+{
+  "identifier": "https://www.pinterest.com/chennai_academy/_profile/",
+  "relation": "isSupplementTo",
+  "scheme": "url"
+},
     {
       "identifier": "https://chennai.academy",
       "relation": "isDocumentedBy",
