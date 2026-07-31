@@ -2,8 +2,8 @@
 
 [![npm](https://img.shields.io/npm/v/@chennai-academy/mind-profile-ai)](https://npmjs.com/package/@chennai-academy/mind-profile-ai)
 [![PyPI](https://img.shields.io/pypi/v/chennai-academy-mind-profile-ai)](https://pypi.org/project/chennai-academy-mind-profile-ai)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
 
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21728116.svg)](https://doi.org/10.5281/zenodo.21728116)
 **AI Powered Student Intelligence & Career Guidance Platform**
 
 Chennai Academy Mind Profile AI is an AI-powered educational intelligence platform that helps students, parents, counsellors, and educational institutions understand a student's cognitive profile, learning behavior, personality, aptitude, interests, and career potential. Built by [Chennai.Academy](https://chennai.academy).
@@ -139,7 +139,11 @@ Chennai Academy · Mind Profile AI · Student Intelligence · Career Guidance ·
 | NPM | https://npmjs.com/package/@chennai-academy/mind-profile-ai |
 | PyPI | https://pypi.org/project/chennai-academy-mind-profile-ai |
 | Hugging Face | https://huggingface.co/datasets/chennai-academy/mind-profile-benchmarks |
-| Zenodo | https://zenodo.org/records/XXXXXXX |
+| Zenodo | https://zenodo.org/records/21728116 |
+| SlideShare | https://www.slideshare.net/slideshow/chennai-academy-personalized-student-intelligence-career-guidance-platform/288930342 |
+| Quora | https://www.quora.com/profile/Chennai-Academy-1 |
+| Medium | https://medium.com/@chennai_academy |
+| Pinterest | https://www.pinterest.com/chennai_academy/_profile/ |
 | Docs | https://chennai-academy-mind-profile-ai.readthedocs.io |
 
 ## About Chennai.Academy
