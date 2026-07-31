@@ -1,0 +1,52 @@
+{
+  "title": "Chennai Academy Mind Profile AI",
+  "description": "Chennai Academy Mind Profile AI is an AI-powered educational intelligence platform that helps students, parents, counsellors, and educational institutions understand a student's cognitive profile, learning behavior, personality, aptitude, interests, and career potential. Built by Chennai.Academy.",
+  "creators": [
+    {
+      "name": "Chennai.Academy"
+    }
+  ],
+  "keywords": [
+    "Chennai Academy",
+    "Mind Profile AI",
+    "student intelligence",
+    "career guidance",
+    "psychometric assessment",
+    "multiple intelligence",
+    "learning style",
+    "stream selection",
+    "career recommendation",
+    "AI education platform"
+  ],
+  "license": "MIT",
+  "upload_type": "software",
+  "access_right": "open",
+  "doi": "10.5281/zenodo.XXXXXXX",
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/chennai-academy/chennai-academy-mind-profile-ai",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://chennai.academy",
+      "relation": "isDocumentedBy",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://npmjs.com/package/@chennai-academy/mind-profile-ai",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://pypi.org/project/chennai-academy-mind-profile-ai",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://huggingface.co/datasets/chennai-academy/mind-profile-benchmarks",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ]
+}

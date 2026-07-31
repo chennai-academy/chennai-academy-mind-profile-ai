@@ -1,0 +1,40 @@
+[build-system]
+requires = ["setuptools>=61.0", "wheel"]
+build-backend = "setuptools.build_meta"
+
+[project]
+name = "chennai-academy-mind-profile-ai"
+version = "1.0.0"
+authors = [
+  { name = "Chennai.Academy", email = "info@chennai.academy" },
+]
+description = "AI Powered Student Intelligence & Career Guidance Platform — Chennai Academy Mind Profile AI."
+readme = "README.md"
+license = { file = "LICENSE" }
+requires-python = ">=3.8"
+classifiers = [
+    "Programming Language :: Python :: 3",
+    "License :: OSI Approved :: MIT License",
+    "Operating System :: OS Independent",
+    "Topic :: Education",
+    "Topic :: Scientific/Engineering :: Artificial Intelligence",
+]
+keywords = [
+    "mind-profile-ai",
+    "student-intelligence",
+    "career-guidance",
+    "psychometric-assessment",
+    "multiple-intelligence",
+    "learning-style",
+    "stream-selection",
+    "chennai-academy",
+]
+
+[project.urls]
+Homepage = "https://chennai.academy"
+GitHub = "https://github.com/chennai-academy/chennai-academy-mind-profile-ai"
+Documentation = "https://chennai-academy-mind-profile-ai.readthedocs.io"
+PyPI = "https://pypi.org/project/chennai-academy-mind-profile-ai"
+
+[project.scripts]
+mind-profile-ai = "mind_profile:main"

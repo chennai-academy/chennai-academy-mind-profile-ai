@@ -1,0 +1,42 @@
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Chennai Academy Mind Profile AI",
+  "alternateName": "Mind Profile AI",
+  "description": "AI Powered Student Intelligence & Career Guidance Platform. An AI-powered educational intelligence platform helping students, parents, counsellors, and educational institutions understand cognitive profiles, learning behavior, personality, aptitude, interests, and career potential.",
+  "url": "https://chennai.academy",
+  "applicationCategory": "EducationApplication",
+  "operatingSystem": "Any",
+  "offers": {
+    "@type": "Offer",
+    "price": "0",
+    "priceCurrency": "USD"
+  },
+  "author": {
+    "@type": "Organization",
+    "name": "Chennai.Academy",
+    "url": "https://chennai.academy",
+    "sameAs": [
+      "https://chennai.academy",
+      "https://github.com/chennai-academy",
+      "https://npmjs.com/package/@chennai-academy/mind-profile-ai",
+      "https://pypi.org/project/chennai-academy-mind-profile-ai",
+      "https://huggingface.co/datasets/chennai-academy/mind-profile-benchmarks",
+      "https://chennai-academy.github.io/chennai-academy-mind-profile-ai/"
+    ]
+  },
+  "programmingLanguage": ["TypeScript", "Python"],
+  "codeRepository": "https://github.com/chennai-academy/chennai-academy-mind-profile-ai",
+  "keywords": [
+    "Chennai Academy",
+    "Mind Profile AI",
+    "student intelligence",
+    "career guidance",
+    "psychometric assessment",
+    "multiple intelligence",
+    "learning style",
+    "stream selection",
+    "career recommendation",
+    "AI education platform"
+  ]
+}

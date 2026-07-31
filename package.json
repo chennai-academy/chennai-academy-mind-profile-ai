@@ -1,0 +1,37 @@
+{
+  "name": "@chennai-academy/mind-profile-ai",
+  "version": "1.0.0",
+  "description": "AI Powered Student Intelligence & Career Guidance Platform — Chennai Academy Mind Profile AI. Built by Chennai.Academy.",
+  "main": "index.js",
+  "bin": {
+    "mind-profile-ai": "./index.js"
+  },
+  "scripts": {
+    "build": "tsc",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "mind-profile-ai",
+    "student-intelligence",
+    "career-guidance",
+    "psychometric-assessment",
+    "multiple-intelligence",
+    "learning-style",
+    "stream-selection",
+    "career-recommendation",
+    "ai-education",
+    "chennai-academy",
+    "student-profiling",
+    "educational-ai"
+  ],
+  "author": "Chennai.Academy",
+  "license": "MIT",
+  "homepage": "https://chennai.academy",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/chennai-academy/chennai-academy-mind-profile-ai"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.0"
+  }
+}
